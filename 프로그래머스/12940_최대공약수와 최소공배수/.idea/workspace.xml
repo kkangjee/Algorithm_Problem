@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77c82ed8-2e8b-44b8-9a54-4bcbfcb1edab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/64061_크레인 인형뽑기.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/out/production/64061_크레인 인형뽑기/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/src/Solution.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1mGkjEgPEoWIVSZHyOsB18KKwrP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="64061_크레인 인형뽑기" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77c82ed8-2e8b-44b8-9a54-4bcbfcb1edab" name="Default Changelist" comment="" />
+      <created>1609127448168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609127448168</updated>
+      <workItem from="1609127450795" duration="5156000" />
+      <workItem from="1609132987326" duration="1919000" />
+      <workItem from="1609143563641" duration="4066000" />
+      <workItem from="1609747860272" duration="239000" />
+      <workItem from="1609824151640" duration="595000" />
+      <workItem from="1609826424674" duration="628000" />
+      <workItem from="1609837927535" duration="1838000" />
+      <workItem from="1609839820148" duration="258000" />
+      <workItem from="1609840132754" duration="682000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="746" y="465" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1609127905579">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="746" y="465" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1609127905579" />
+    <state x="634" y="323" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1609133963100">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="634" y="323" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1609133963100" />
+    <state width="1750" height="300" key="GridCell.Tab.0.bottom" timestamp="1609840820664">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="300" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1609147834376" />
+    <state width="1750" height="300" key="GridCell.Tab.0.bottom/1792.164.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1609840820664" />
+    <state width="1750" height="300" key="GridCell.Tab.0.center" timestamp="1609840820663">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="300" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1609147834376" />
+    <state width="1750" height="300" key="GridCell.Tab.0.center/1792.164.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1609840820663" />
+    <state width="1750" height="300" key="GridCell.Tab.0.left" timestamp="1609840820663">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="300" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1609147834375" />
+    <state width="1750" height="300" key="GridCell.Tab.0.left/1792.164.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1609840820663" />
+    <state width="1750" height="300" key="GridCell.Tab.0.right" timestamp="1609840820664">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="300" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1609147834376" />
+    <state width="1750" height="300" key="GridCell.Tab.0.right/1792.164.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1609840820664" />
+    <state x="384" y="151" key="SettingsEditor" timestamp="1609128559026">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="384" y="151" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1609128559026" />
+  </component>
+</project>
