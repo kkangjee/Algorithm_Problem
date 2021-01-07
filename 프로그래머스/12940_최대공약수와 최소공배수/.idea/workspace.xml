@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77c82ed8-2e8b-44b8-9a54-4bcbfcb1edab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/64061_크레인 인형뽑기.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/out/production/64061_크레인 인형뽑기/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../12922_수박수박수박수?/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12940_최대공약수와 최소공배수/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +65,8 @@
       <workItem from="1609826424674" duration="628000" />
       <workItem from="1609837927535" duration="1838000" />
       <workItem from="1609839820148" duration="258000" />
-      <workItem from="1609840132754" duration="682000" />
+      <workItem from="1609840132754" duration="254000" />
+      <workItem from="1609997364439" duration="2362000" />
     </task>
     <servers />
   </component>
@@ -90,26 +82,26 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="634" y="323" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1609133963100" />
-    <state width="1750" height="300" key="GridCell.Tab.0.bottom" timestamp="1609840820664">
+    <state width="1750" height="300" key="GridCell.Tab.0.bottom" timestamp="1610000475479">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="300" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1609147834376" />
-    <state width="1750" height="300" key="GridCell.Tab.0.bottom/1792.164.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1609840820664" />
-    <state width="1750" height="300" key="GridCell.Tab.0.center" timestamp="1609840820663">
+    <state width="1750" height="300" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1610000475479" />
+    <state width="1750" height="300" key="GridCell.Tab.0.bottom/1792.164.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1609840513563" />
+    <state width="1750" height="300" key="GridCell.Tab.0.center" timestamp="1610000475479">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="300" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1609147834376" />
-    <state width="1750" height="300" key="GridCell.Tab.0.center/1792.164.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1609840820663" />
-    <state width="1750" height="300" key="GridCell.Tab.0.left" timestamp="1609840820663">
+    <state width="1750" height="300" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1610000475479" />
+    <state width="1750" height="300" key="GridCell.Tab.0.center/1792.164.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1609840513563" />
+    <state width="1750" height="300" key="GridCell.Tab.0.left" timestamp="1610000475478">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="300" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1609147834375" />
-    <state width="1750" height="300" key="GridCell.Tab.0.left/1792.164.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1609840820663" />
-    <state width="1750" height="300" key="GridCell.Tab.0.right" timestamp="1609840820664">
+    <state width="1750" height="300" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1610000475478" />
+    <state width="1750" height="300" key="GridCell.Tab.0.left/1792.164.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1609840513562" />
+    <state width="1750" height="300" key="GridCell.Tab.0.right" timestamp="1610000475479">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="300" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1609147834376" />
-    <state width="1750" height="300" key="GridCell.Tab.0.right/1792.164.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1609840820664" />
+    <state width="1750" height="300" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1610000475479" />
+    <state width="1750" height="300" key="GridCell.Tab.0.right/1792.164.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1609840513563" />
     <state x="384" y="151" key="SettingsEditor" timestamp="1609128559026">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
